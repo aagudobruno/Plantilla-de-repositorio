@@ -6,7 +6,9 @@
 ### Nombre
 ### Descripción y contexto
 ---
-Esto es un archivo README. Debe contener la documentación de soporte uso de la herramienta digital. Las siguientes secciones son las secciones recomendadas que debes poner incluir en cualquier herramienta digital. Puedes descargar este archivo para que te sirva como plantilla.
+Esto es un archivo _README_. Debe contener la **documentación** de soporte uso de la `herramienta digital`. Las siguientes secciones son las secciones recomendadas que debes poner incluir en cualquier herramienta digital. Puedes descargar este archivo para que te sirva como plantilla.
+
+    Per escriure una comanda, posa 4 espais davant.
 
 Asegúrate de empezar este archivo con una breve descripción sobre las funcionalidades y contexto de la herramienta digital. Sé conciso y al grano.
 
